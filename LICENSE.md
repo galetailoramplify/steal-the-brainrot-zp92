@@ -1,4 +1,4 @@
-#  
+#  smart 3008 Scripts offers the most advanced 3008 Script, with fly and auto-upgrade. Perfect for dominating any match.
 
 
 
